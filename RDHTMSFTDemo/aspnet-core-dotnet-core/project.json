@@ -95,6 +95,7 @@
  "publishOptions": {
   "include": [
    "wwwroot",
+   "Controllers",
    "Views",
    "appsettings.json",
    "web.config"
